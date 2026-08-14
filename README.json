@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T15:58:43Z",
+            "last_commit": "2026-08-14T22:24:27Z",
             "owner": "rpldy",
             "repo": "react-uploady",
             "stars": 1247
@@ -823,7 +823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:23:40.138Z",
+    "last_updated": "2026-08-14T22:57:18.979Z",
     "original_repository": "Developerayo/awesome-cloudinary",
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
     "enhanced_repository": "enhansome/enhansome-cloudinary",

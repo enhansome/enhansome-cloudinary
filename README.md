@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,378 | 🐛 99 | 📅 2026-06-30 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,778 | 🐛 100 | 📅 2026-06-30 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -461,7 +461,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 > List of tools and libraries for Cloudinary
 
 * [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) ⚠️ Archived
-* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,247 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-12
+* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,247 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-14
 * [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 468 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
 * [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 421 | 🐛 32 | 🌐 Ruby | 📅 2026-04-27
@@ -680,4 +680,4 @@ specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
