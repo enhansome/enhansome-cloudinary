@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T21:45:36Z",
+            "last_commit": "2026-08-16T16:15:31Z",
             "owner": "rpldy",
             "repo": "react-uploady",
             "stars": 1247
@@ -84,7 +84,7 @@
             "last_commit": "2026-04-26T16:04:38Z",
             "owner": "cloudinary",
             "repo": "cloudinary_php",
-            "stars": 400
+            "stars": 399
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-06-11T13:08:56Z",
+            "last_commit": "2026-08-16T12:23:25Z",
             "owner": "cloudinary",
             "repo": "CloudinaryDotNet",
             "stars": 105
@@ -823,7 +823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:56:17.144Z",
+    "last_updated": "2026-08-16T22:55:48.679Z",
     "original_repository": "Developerayo/awesome-cloudinary",
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
     "enhanced_repository": "enhansome/enhansome-cloudinary",
