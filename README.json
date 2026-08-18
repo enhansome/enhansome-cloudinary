@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T18:15:23Z",
+            "last_commit": "2026-08-18T14:49:26Z",
             "owner": "rpldy",
             "repo": "react-uploady",
             "stars": 1247
@@ -98,7 +98,7 @@
             "last_commit": "2026-01-30T23:27:14Z",
             "owner": "cloudinary-community",
             "repo": "cloudinary-laravel",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:53:54Z",
+            "last_commit": "2026-08-18T16:02:21Z",
             "owner": "cloudinary",
             "repo": "pycloudinary",
             "stars": 263
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T13:06:58Z",
+            "last_commit": "2026-08-18T05:00:29Z",
             "owner": "cloudinary",
             "repo": "cloudinary_wordpress",
             "stars": 39
@@ -823,7 +823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:58:03.495Z",
+    "last_updated": "2026-08-18T22:57:57.592Z",
     "original_repository": "Developerayo/awesome-cloudinary",
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
     "enhanced_repository": "enhansome/enhansome-cloudinary",
