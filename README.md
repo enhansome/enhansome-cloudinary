@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,818 | 🐛 102 | 📅 2026-08-18 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -462,7 +462,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 
 * [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) ⚠️ Archived
 * [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,247 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-19
-* [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 468 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
+* [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 467 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
 * [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 421 | 🐛 32 | 🌐 Ruby | 📅 2026-04-27
 * [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php) ⭐ 399 | 🐛 6 | 🌐 PHP | 📅 2026-04-26
@@ -499,7 +499,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Shahzayb/jif-chat](https://github.com/Shahzayb/jif-chat) ⚠️ Archived
 * [Shahzayb/freemage](https://github.com/Shahzayb/freemage) ⚠️ Archived
 * [Mailinary](https://github.com/cloudinary/mailinary) ⭐ 4 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-31
-* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2026-08-11
+* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2026-08-19
 * [godswillokokon/ImagePickerCloudinary](https://github.com/godswillokokon/ImagePickerCloudinary) ⭐ 3 | 🐛 16 | 🌐 Objective-C | 📅 2023-01-26
 * [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary) ⭐ 2 | 🐛 4 | 🌐 JavaScript | 📅 2023-04-06
 * [el3zahaby/cloudder](https://github.com/el3zahaby/cloudder) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2020-05-03
