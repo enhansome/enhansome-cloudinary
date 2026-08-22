@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,638 | 🐛 105 | 📅 2026-08-21 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,977 | 🐛 106 | 📅 2026-08-21 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -489,7 +489,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Wdio-allure-ts](https://github.com/cloudinary/wdio-allure-ts) ⚠️ Archived
 * [nhoizey/eleventy-plugin-images-responsiver](https://github.com/nhoizey/eleventy-plugin-images-responsiver) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-22
 * [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin) ⭐ 10 | 🐛 4 | 🌐 Kotlin | 📅 2025-07-10
-* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-12
+* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-22
 * [patarapolw/blogdown-cms](https://github.com/patarapolw/blogdown-cms) ⭐ 8 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-07
 * [uniformdev/sitecore-mvc-nextjs-starterkit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-13
 * [Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs](https://github.com/texas-justice-initiative/website-nextjs/pull/271) ⭐ 7 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-04
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,091 | 🐛 89 | 🌐 MDX | 📅 2026-08-21
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,092 | 🐛 89 | 🌐 MDX | 📅 2026-08-21
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
