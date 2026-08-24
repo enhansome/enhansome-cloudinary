@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 3513548,
                 "language": "Ruby",
-                "last_commit": "2026-04-27T12:01:43Z",
+                "last_commit": "2026-08-24T22:36:41Z",
                 "owner": "cloudinary",
                 "repo": "cloudinary_gem",
                 "stars": 421
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 4359889,
                 "language": "PHP",
-                "last_commit": "2026-04-26T16:04:38Z",
+                "last_commit": "2026-08-24T22:35:32Z",
                 "owner": "cloudinary",
                 "repo": "cloudinary_php",
                 "stars": 399
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:29.265Z",
+    "last_updated": "2026-08-24T22:59:37.376Z",
     "original_repository": "Developerayo/awesome-cloudinary",
     "original_repository_id": 175646774,
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
