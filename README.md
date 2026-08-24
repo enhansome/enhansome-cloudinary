@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,296 | 🐛 106 | 📅 2026-08-21 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,521 | 🐛 106 | 📅 2026-08-21 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -469,7 +469,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 335 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
 * [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular) ⭐ 302 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-10
 * [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter) ⭐ 295 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-13
-* [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 263 | 🐛 21 | 🌐 Python | 📅 2026-08-18
+* [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 263 | 🐛 19 | 🌐 Python | 📅 2026-08-24
 * [jlengstorf/get-share-image](https://github.com/jlengstorf/get-share-image) ⭐ 188 | 🐛 8 | 🌐 TypeScript | 📅 2024-01-15
 * [Cloudinary Java](https://github.com/cloudinary/cloudinary_java) ⭐ 173 | 🐛 47 | 🌐 Java | 📅 2026-07-08
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
@@ -680,4 +680,4 @@ specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

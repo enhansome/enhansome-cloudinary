@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 4211710,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:02:21Z",
+                "last_commit": "2026-08-24T13:58:51Z",
                 "owner": "cloudinary",
                 "repo": "pycloudinary",
                 "stars": 263
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:56:55.375Z",
+    "last_updated": "2026-08-24T14:41:29.265Z",
     "original_repository": "Developerayo/awesome-cloudinary",
     "original_repository_id": 175646774,
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
