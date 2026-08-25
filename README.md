@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,910 | 🐛 106 | 📅 2026-08-21 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -461,25 +461,25 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 > List of tools and libraries for Cloudinary
 
 * [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) ⚠️ Archived
-* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,247 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-19
+* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,247 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-25
 * [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 467 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
-* [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 421 | 🐛 32 | 🌐 Ruby | 📅 2026-08-24
-* [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php) ⭐ 399 | 🐛 7 | 🌐 PHP | 📅 2026-08-24
-* [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 335 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
+* [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 420 | 🐛 32 | 🌐 Ruby | 📅 2026-08-25
+* [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php) ⭐ 399 | 🐛 7 | 🌐 PHP | 📅 2026-08-25
+* [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 334 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
 * [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular) ⭐ 302 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-10
 * [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter) ⭐ 295 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-13
-* [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 263 | 🐛 19 | 🌐 Python | 📅 2026-08-24
+* [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 262 | 🐛 18 | 🌐 Python | 📅 2026-08-25
 * [jlengstorf/get-share-image](https://github.com/jlengstorf/get-share-image) ⭐ 188 | 🐛 8 | 🌐 TypeScript | 📅 2024-01-15
 * [Cloudinary Java](https://github.com/cloudinary/cloudinary_java) ⭐ 173 | 🐛 47 | 🌐 Java | 📅 2026-07-08
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
-* [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 17 | 🌐 C# | 📅 2026-08-16
+* [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 18 | 🌐 C# | 📅 2026-08-25
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
 * [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 94 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-13
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary) ⭐ 85 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21
 * [Cloudinary Android](https://github.com/cloudinary/cloudinary_android) ⭐ 68 | 🐛 13 | 🌐 Java | 📅 2026-06-14
 * [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary) ⭐ 43 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06
-* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 12 | 🌐 PHP | 📅 2026-08-21
+* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 22 | 🌐 PHP | 📅 2026-08-25
 * [yoelpc4/laravel-cloudinary](https://github.com/yoelpc4/laravel-cloudinary) ⭐ 33 | 🐛 1 | 🌐 PHP | 📅 2025-04-14
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-digital-asset-management-tools-to-check-out.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
@@ -675,7 +675,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-21
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 90 | 🌐 MDX | 📅 2026-08-21
 specification. Contributions of any kind welcome!
 
 ***
