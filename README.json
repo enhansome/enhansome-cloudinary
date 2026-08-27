@@ -299,7 +299,7 @@
                 "archived": false,
                 "id": 54102165,
                 "language": "PHP",
-                "last_commit": "2026-08-25T14:59:53Z",
+                "last_commit": "2026-08-26T12:51:42Z",
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:00:43.824Z",
+    "last_updated": "2026-08-27T03:33:10.468Z",
     "original_repository": "Developerayo/awesome-cloudinary",
     "original_repository_id": 175646774,
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
