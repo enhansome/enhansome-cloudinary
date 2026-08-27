@@ -299,7 +299,7 @@
                 "archived": false,
                 "id": 54102165,
                 "language": "PHP",
-                "last_commit": "2026-08-26T12:51:42Z",
+                "last_commit": "2026-08-27T11:28:44Z",
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39
@@ -840,9 +840,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:33:10.468Z",
-    "original_repository": "Developerayo/awesome-cloudinary",
-    "original_repository_id": 175646774,
+    "last_updated": "2026-08-27T11:29:24.960Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 175646774,
+      "language": "JavaScript",
+      "last_commit": "2020-12-01T08:56:46Z",
+      "owner": "Developerayo",
+      "repo": "awesome-cloudinary",
+      "stars": 82
+    },
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
     "enhanced_repository": "enhansome/enhansome-cloudinary",
     "enhanced_repository_description": null,
