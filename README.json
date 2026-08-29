@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A curated list of awesome things related to Strapi",
+                "homepage": null,
                 "id": 243313507,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-30T21:38:48Z",
+                "open_issues": 2,
                 "owner": "strapi-community",
                 "repo": "awesome-strapi",
-                "stars": 1508
+                "stars": 1508,
+                "topics": [
+                  "awesome-list",
+                  "strapi"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -28,12 +36,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern file uploading - components & hooks for React",
+                "homepage": "https://react-uploady.org",
                 "id": 221179329,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T10:26:18Z",
+                "open_issues": 12,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1247
+                "stars": 1247,
+                "topics": [
+                  "browser",
+                  "chunked-uploads",
+                  "components",
+                  "drag-and-drop",
+                  "file-upload",
+                  "file-uploader",
+                  "files",
+                  "hooks",
+                  "javascript",
+                  "react",
+                  "react-native",
+                  "reactjs",
+                  "resumable",
+                  "resumable-upload",
+                  "ssr",
+                  "tus",
+                  "upload"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -44,12 +75,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of regexes for every possbile use",
+                "homepage": null,
                 "id": 204483340,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-12-01T18:35:42Z",
+                "open_issues": 0,
                 "owner": "l4yton",
                 "repo": "RegHex",
-                "stars": 467
+                "stars": 467,
+                "topics": [
+                  "bugbounty",
+                  "regex",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -60,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 49382859,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-08-19T01:11:11Z",
+                "open_issues": 7,
                 "owner": "cloudinary",
                 "repo": "responsive_breakpoints_generator",
-                "stars": 443
+                "stars": 443,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -76,12 +121,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upload, transform, optimize, and manage images and videos with Cloudinary from Ruby and Rails",
+                "homepage": "https://cloudinary.com/documentation/rails_integration",
                 "id": 3513548,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-08-25T13:28:57Z",
+                "open_issues": 32,
                 "owner": "cloudinary",
                 "repo": "cloudinary_gem",
-                "stars": 420
+                "stars": 420,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-gem",
+                  "cloudinary-ruby-sdk",
+                  "cloudinary-sdk",
+                  "image-manipulation",
+                  "ruby",
+                  "ruby-gem",
+                  "ruby-on-rails",
+                  "sdk-ruby",
+                  "video-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -92,12 +153,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upload, transform, optimize, and manage images and videos with Cloudinary from PHP",
+                "homepage": "https://cloudinary.com/documentation/php_integration",
                 "id": 4359889,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-25T13:25:36Z",
+                "open_issues": 7,
                 "owner": "cloudinary",
                 "repo": "cloudinary_php",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "cdn",
+                  "cloudinary",
+                  "cloudinary-api",
+                  "cloudinary-sdk",
+                  "dam",
+                  "image-manipulation",
+                  "image-optimization",
+                  "image-upload",
+                  "media-management",
+                  "php",
+                  "php-library",
+                  "php-sdk",
+                  "video-manipulation",
+                  "video-upload"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -108,12 +189,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel SDK for Cloudinary",
+                "homepage": "https://laravel.cloudinary.dev/",
                 "id": 272280035,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-30T23:27:14Z",
+                "open_issues": 9,
                 "owner": "cloudinary-community",
                 "repo": "cloudinary-laravel",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "cloudinary",
+                  "laravel",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -124,12 +214,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary Angular client library",
+                "homepage": null,
                 "id": 19663683,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-10T06:05:52Z",
+                "open_issues": 11,
                 "owner": "cloudinary",
                 "repo": "cloudinary_angular",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "angular-components",
+                  "angularjs",
+                  "cloudinary",
+                  "cloudinary-angularjs-sdk",
+                  "cloudinary-library",
+                  "cloudinary-sdk",
+                  "image-manipulation",
+                  "sdk",
+                  "sdk-angular2",
+                  "sdk-js",
+                  "video-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -140,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fwitter is an example application that demonstrates the features and functionality of Fauna.",
+                "homepage": null,
                 "id": 256481647,
                 "language": "JavaScript",
+                "license": "MIT-0",
                 "last_commit": "2026-02-13T20:24:02Z",
+                "open_issues": 18,
                 "owner": "fauna-labs",
                 "repo": "fwitter",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -156,12 +268,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upload, transform, optimize, and manage images and videos with Cloudinary from Python or Django.",
+                "homepage": "https://cloudinary.com/documentation/django_integration",
                 "id": 4211710,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:08:03Z",
+                "open_issues": 18,
                 "owner": "cloudinary",
                 "repo": "pycloudinary",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-api",
+                  "cloudinary-python-sdk",
+                  "cloudinary-sdk",
+                  "django",
+                  "image-manipulation",
+                  "image-processing",
+                  "python",
+                  "python-sdk",
+                  "sdk-python",
+                  "video-manipulation",
+                  "video-processing"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -172,12 +302,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamically generate social media sharing images using Cloudinary! Details:",
+                "homepage": "https://www.learnwithjason.dev/blog/auto-generate-social-image/",
                 "id": 231979718,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-15T23:18:45Z",
+                "open_issues": 8,
                 "owner": "jlengstorf",
                 "repo": "get-share-image",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "cloudinary",
+                  "javascript",
+                  "open-graph",
+                  "social-image"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -188,12 +328,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary Java Client Library",
+                "homepage": null,
                 "id": 6179800,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-07-08T09:58:07Z",
+                "open_issues": 47,
                 "owner": "cloudinary",
                 "repo": "cloudinary_java",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-api",
+                  "cloudinary-java-library",
+                  "cloudinary-java-sdk",
+                  "cloudinary-sdk",
+                  "hacktoberfest",
+                  "image-manipulation",
+                  "java",
+                  "sdk-java",
+                  "video-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -204,12 +360,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary iOS SDK",
+                "homepage": null,
                 "id": 6490389,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-01-08T12:21:41Z",
+                "open_issues": 14,
                 "owner": "cloudinary",
                 "repo": "cloudinary_ios",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "cloud",
+                  "cloudinary-sdk",
+                  "cocoapods",
+                  "hacktoberfest",
+                  "image-processing",
+                  "ios",
+                  "objective-c",
+                  "sdk",
+                  "swift",
+                  "upload"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -220,12 +392,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary DotNet library",
+                "homepage": null,
                 "id": 7308030,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:10:41Z",
+                "open_issues": 18,
                 "owner": "cloudinary",
                 "repo": "CloudinaryDotNet",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-api",
+                  "cloudinary-sdk",
+                  "dotnet",
+                  "dotnet-library",
+                  "dotnet-sdk",
+                  "hacktoberfest",
+                  "image-manipulation",
+                  "sdk-dotnet",
+                  "video-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -236,12 +424,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary components library for Vue.js application, for image and video optimization. ",
+                "homepage": "https://cloudinary.com/documentation/vue_integration",
                 "id": 162087629,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-19T00:38:55Z",
+                "open_issues": 14,
                 "owner": "cloudinary",
                 "repo": "cloudinary-vue",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-components",
+                  "cloudinary-sdk",
+                  "cloudinary-sdks",
+                  "cloudinary-vue",
+                  "image-manipulation",
+                  "sdk",
+                  "sdk-js",
+                  "video-manipulation",
+                  "vue-components",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -252,12 +457,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary Video Player",
+                "homepage": null,
                 "id": 97703809,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T13:31:06Z",
+                "open_issues": 22,
                 "owner": "cloudinary",
                 "repo": "cloudinary-video-player",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "cloudinary-javascript-library",
+                  "cloudinary-library",
+                  "cloudinary-video-player",
+                  "hls"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -268,12 +483,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: A fully-featured and deeply tested Cloudinary Ghost storage adapter",
+                "homepage": "https://ghost.org/integrations/cloudinary/",
                 "id": 125415211,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-01-21T23:55:16Z",
+                "open_issues": 6,
                 "owner": "eexit",
                 "repo": "ghost-storage-cloudinary",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "cloudinary",
+                  "es6",
+                  "ghost",
+                  "ghost-blog",
+                  "ghost-storage-adapter",
+                  "nodejs",
+                  "nodejs-modules",
+                  "plugins",
+                  "retina-support",
+                  "retinajs"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -284,12 +515,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android client for integrating with Cloudinary",
+                "homepage": null,
                 "id": 9432373,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-06-14T07:47:35Z",
+                "open_issues": 13,
                 "owner": "cloudinary",
                 "repo": "cloudinary_android",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "cloudinary",
+                  "cloudinary-android-sdk",
+                  "cloudinary-sdk",
+                  "hacktoberfest",
+                  "image-manipulation",
+                  "sdk-android",
+                  "video-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -300,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight hooks for generating URLs of your cloudinary assets and adding transformations ",
+                "homepage": null,
                 "id": 254564115,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-06T10:19:19Z",
+                "open_issues": 11,
                 "owner": "domitriusclark",
                 "repo": "use-cloudinary",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -316,12 +567,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary's WordPress plugin",
+                "homepage": null,
                 "id": 54102165,
                 "language": "PHP",
-                "last_commit": "2026-08-28T01:10:42Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T22:34:15Z",
+                "open_issues": 18,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "cloudinary-integration",
+                  "wordpress-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -332,12 +591,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel Cloudinary filesystem cloud driver.",
+                "homepage": null,
                 "id": 245958161,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-14T18:56:11Z",
+                "open_issues": 1,
                 "owner": "yoelpc4",
                 "repo": "laravel-cloudinary",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-integration",
+                  "laravel",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -348,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 145883609,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-14T16:16:07Z",
+                "open_issues": 0,
                 "owner": "limiw",
                 "repo": "open-source-discussions",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -364,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 145883609,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-14T16:16:07Z",
+                "open_issues": 0,
                 "owner": "limiw",
                 "repo": "open-source-discussions",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -380,12 +659,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cloudinary's Magento extension. Upload product images to the cloud, manipulate them to match your graphic design and optimize images for better user experience",
+                "homepage": null,
                 "id": 32789483,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-10T09:15:36Z",
+                "open_issues": 2,
                 "owner": "cloudinary",
                 "repo": "cloudinary_magento",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "cloudinary-integration"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -396,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 The only Front-End Performance Checklist that runs faster than the others",
+                "homepage": null,
                 "id": 240459748,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-04-08T11:11:00Z",
+                "open_issues": 1,
                 "owner": "GameWith",
                 "repo": "Front-End-Performance-Checklist",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -412,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥳🌄An easy to use image picker for cloudinary.",
+                "homepage": null,
                 "id": 249955464,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-24T17:31:51Z",
+                "open_issues": 0,
                 "owner": "react-native-nigeria-community",
                 "repo": "react-native-cloudinary-image-picker",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -428,12 +724,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebdriverIO, Allure reporter and TypeScript wrapper for UI E2E testing",
+                "homepage": null,
                 "id": 127118443,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-01T09:45:09Z",
+                "open_issues": 0,
                 "owner": "cloudinary",
                 "repo": "wdio-allure-ts",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "cloudinary-library"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -444,12 +747,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Global solution for responsive images in Eleventy, allowing authors to use Markdown syntax for image and yet get responsive images in generated HTML.",
+                "homepage": "https://nhoizey.github.io/eleventy-plugin-images-responsiver/",
                 "id": 605334612,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-22T12:04:05Z",
+                "open_issues": 9,
                 "owner": "nhoizey",
                 "repo": "eleventy-plugin-images-responsiver",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "eleventy",
+                  "eleventy-plugin",
+                  "images",
+                  "plugin",
+                  "responsive"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -460,12 +774,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary Kotlin SDK library",
+                "homepage": null,
                 "id": 226841227,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-07-10T11:07:14Z",
+                "open_issues": 4,
                 "owner": "cloudinary",
                 "repo": "cloudinary_kotlin",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "cloudinary-sdk",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -476,12 +798,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Page Speed Image Performance Analysis (Server)",
+                "homepage": null,
                 "id": 94438814,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T22:02:12Z",
+                "open_issues": 12,
                 "owner": "cloudinary",
                 "repo": "web-speed-test-server",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cloudinary-service"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -492,12 +821,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Content Management System, to provide API endpoints for Static Site Generators or JAMStacks",
+                "homepage": null,
                 "id": 231164972,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T18:41:03Z",
+                "open_issues": 40,
                 "owner": "patarapolw",
                 "repo": "blogdown-cms",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "blogdown-cms",
+                  "cms",
+                  "heroku"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -508,12 +846,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jamstack for Sitecore MVC using Next.js with Uniform SDK.",
+                "homepage": "https://docs.uniform.dev/sitecore/deploy/getting-started/sitecore-mvc-tutorial",
                 "id": 248392263,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-12-13T00:56:32Z",
+                "open_issues": 0,
                 "owner": "uniformdev",
                 "repo": "sitecore-mvc-nextjs-starterkit",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "jamstack",
+                  "netlify",
+                  "nextjs",
+                  "sitecore",
+                  "sitecore-headless",
+                  "sitecore-mvc",
+                  "uniform"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -524,12 +875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The website for Texas Justice Initiative",
+                "homepage": "https://texasjusticeinitiative.org",
                 "id": 175308893,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-04T10:51:03Z",
+                "open_issues": 36,
                 "owner": "texas-justice-initiative",
                 "repo": "website-nextjs",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -540,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary API wrapper in Go",
+                "homepage": null,
                 "id": 240936095,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-09-23T15:21:08Z",
+                "open_issues": 0,
                 "owner": "Koshqua",
                 "repo": "cloudinary",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -556,12 +917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of past meetups & talks slides",
+                "homepage": null,
                 "id": 185367160,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-06T14:44:03Z",
+                "open_issues": 0,
                 "owner": "vue-js-israel",
                 "repo": "meetups",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -572,12 +938,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary Live Streaming Javascript SDK",
+                "homepage": "https://cloudinary.com/",
                 "id": 160165486,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-23T22:03:59Z",
+                "open_issues": 0,
                 "owner": "cloudinary",
                 "repo": "cloudinary-js-streaming",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cloudinary-sdk"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -588,12 +961,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "its a social networking website that allows you to send and receive post ( gif + text ) called jifs.",
+                "homepage": "https://jifchat.herokuapp.com/",
                 "id": 244217723,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-11T16:23:49Z",
+                "open_issues": 8,
                 "owner": "Shahzayb",
                 "repo": "jif-chat",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "chat-app",
+                  "expressjs",
+                  "gif",
+                  "gif-chat",
+                  "google-oauth-login",
+                  "jif-chat",
+                  "mern",
+                  "mern-application",
+                  "mongodb",
+                  "nodejs",
+                  "reactjs",
+                  "rest-api",
+                  "social-network",
+                  "video-chat"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -604,12 +997,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "It's an online photo sharing website",
+                "homepage": "https://freemage.herokuapp.com/",
                 "id": 202237598,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-11T06:57:48Z",
+                "open_issues": 10,
                 "owner": "Shahzayb",
                 "repo": "freemage",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "expressjs",
+                  "free-images",
+                  "freemage",
+                  "image-gallery",
+                  "image-gallery-react",
+                  "mern",
+                  "mongodb",
+                  "mongoose",
+                  "node",
+                  "nodejs",
+                  "online-image-gallery",
+                  "react",
+                  "single-page-app",
+                  "spa",
+                  "unsplash",
+                  "unsplash-clone"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -620,12 +1035,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scrape and email web pages on schedule or on demand",
+                "homepage": null,
                 "id": 158552375,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-31T10:13:47Z",
+                "open_issues": 13,
                 "owner": "cloudinary",
                 "repo": "mailinary",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cloudinary-library"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -636,12 +1058,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line interface for Cloudinary's APIs",
+                "homepage": "https://cloudinary.com/documentation/cloudinary_cli",
                 "id": 207788901,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T17:30:25Z",
+                "open_issues": 4,
                 "owner": "cloudinary",
                 "repo": "cloudinary-cli",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-api",
+                  "cloudinary-cli",
+                  "cloudinary-sdk",
+                  "hacktoberfest",
+                  "image-manipulation",
+                  "video-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -652,12 +1087,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "From My Blog Post",
+                "homepage": "https://medium.com/react-native-nigeria/react-native-how-to-upload-an-image-to-cloudinary-da3693f0ae61",
                 "id": 249848655,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2023-01-26T18:27:19Z",
+                "open_issues": 16,
                 "owner": "godswillokokon",
                 "repo": "ImagePickerCloudinary",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cloudinary",
+                  "imagepicker",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -668,12 +1112,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin of Cloudinary Vue SDK for Vue CLI",
+                "homepage": null,
                 "id": 219993812,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-06T23:05:47Z",
+                "open_issues": 4,
                 "owner": "cloudinary",
                 "repo": "vue-cli-plugin-cloudinary",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cloudinary",
+                  "cloudinary-api",
+                  "cloudinary-plugin",
+                  "vue-cli-3",
+                  "vue-cli-plugin",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -684,12 +1140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudinary wrapper for Laravel 7",
+                "homepage": null,
                 "id": 261031897,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2020-05-03T22:54:07Z",
+                "open_issues": 0,
                 "owner": "egyjs",
                 "repo": "cloudder",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -700,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 260042992,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-21T21:55:01Z",
+                "open_issues": 1,
                 "owner": "uniformdev",
                 "repo": "sugcon-jss",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -716,12 +1182,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sacada do Prédio is a space where neighbours can share their needs or offer help for those in need.",
+                "homepage": "http://www.sacadadopredio.com",
                 "id": 258640944,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-04-24T22:57:15Z",
+                "open_issues": 0,
                 "owner": "danielcspaiva",
                 "repo": "sacada_do_predio",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "community",
+                  "covid-19",
+                  "css",
+                  "css3",
+                  "expressjs",
+                  "hbs",
+                  "html",
+                  "html5",
+                  "javascript",
+                  "mongodb",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -732,12 +1215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vanderbilt Bootcamp: Recipe app built with MySQL, JavaScript, and Bootstrap 4",
+                "homepage": null,
                 "id": 251644237,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-06T02:51:02Z",
+                "open_issues": 16,
                 "owner": "Fomiller",
                 "repo": "Ultimate-Cookbook",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -748,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 248856046,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-11-11T18:22:54Z",
+                "open_issues": 0,
                 "owner": "joelhooks",
                 "repo": "joelhooks-opengraph-images",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -764,12 +1257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 251207135,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2020-06-18T17:47:02Z",
+                "open_issues": 0,
                 "owner": "flannelware",
                 "repo": "torch-cellars",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -780,12 +1278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 248855078,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T16:41:30Z",
+                "open_issues": 15,
                 "owner": "phantware",
                 "repo": "reflection_API",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -796,12 +1299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 249631386,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-22T05:26:50Z",
+                "open_issues": 3,
                 "owner": "brianmwiruki",
                 "repo": "neighbourhood-watch-backend",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -812,12 +1320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 248870598,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-03-20T23:48:17Z",
+                "open_issues": 0,
                 "owner": "nokenwa",
                 "repo": "TwilioWhatsAppMothersDayPhotoBook",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -828,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 248870598,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-03-20T23:48:17Z",
+                "open_issues": 0,
                 "owner": "nokenwa",
                 "repo": "TwilioWhatsAppMothersDayPhotoBook",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -844,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Heroku server for handling advice form http requests ",
+                "homepage": null,
                 "id": 178880134,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-22T22:52:11Z",
+                "open_issues": 8,
                 "owner": "KCLSU",
                 "repo": "HEROKU_advice_form",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -860,12 +1383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 238702281,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2020-02-28T11:26:53Z",
+                "open_issues": 0,
                 "owner": "BeiDa-uGym",
                 "repo": "BeiDa-couponWebAdmin2",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             },
@@ -876,12 +1404,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A hub for indie photographers",
+                "homepage": "https://indieapp.herokuapp.com",
                 "id": 224290402,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-12-13T18:32:15Z",
+                "open_issues": 0,
                 "owner": "osamaadam",
                 "repo": "indie-photographers",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "express",
+                  "hobby-project",
+                  "material-ui",
+                  "node",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
             }
@@ -895,15 +1435,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:20:15.262Z",
+    "last_updated": "2026-08-29T03:51:35.554Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
+      "homepage": "https://awesome-cloudinary.now.sh",
       "id": 175646774,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2020-12-01T08:56:46Z",
+      "open_issues": 1,
       "owner": "Developerayo",
       "repo": "awesome-cloudinary",
-      "stars": 82
+      "stars": 82,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloudinary",
+        "lists",
+        "markdown",
+        "resources"
+      ]
     },
     "original_repository_sha": "0af41191da602501125fbf44c3550f0a4d71d22d",
     "enhanced_repository": "enhansome/enhansome-cloudinary",
