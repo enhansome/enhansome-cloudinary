@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,164 | 🐛 105 | 📅 2026-08-21 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,465 | 🐛 105 | 📅 2026-08-21 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -475,7 +475,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
 * [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 18 | 🌐 C# | 📅 2026-08-25
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
-* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 94 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-13
+* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 94 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-30
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary) ⭐ 85 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21
 * [Cloudinary Android](https://github.com/cloudinary/cloudinary_android) ⭐ 68 | 🐛 13 | 🌐 Java | 📅 2026-06-14
 * [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary) ⭐ 43 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,094 | 🐛 90 | 🌐 MDX | 📅 2026-08-27
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,095 | 🐛 90 | 🌐 MDX | 📅 2026-08-27
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
