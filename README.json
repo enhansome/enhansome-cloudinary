@@ -41,7 +41,7 @@
                 "id": 221179329,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-25T10:26:18Z",
+                "last_commit": "2026-09-01T10:28:55Z",
                 "open_issues": 12,
                 "owner": "rpldy",
                 "repo": "react-uploady",
@@ -572,7 +572,7 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T22:34:15Z",
+                "last_commit": "2026-09-01T13:59:21Z",
                 "open_issues": 18,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:23:08.367Z",
+    "last_updated": "2026-09-02T00:31:02.278Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
