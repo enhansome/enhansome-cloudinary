@@ -127,7 +127,7 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2026-08-25T13:28:57Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "cloudinary",
                 "repo": "cloudinary_gem",
                 "stars": 420,
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T13:43:00Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-11T01:05:53Z",
+                "open_issues": 16,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -803,7 +803,7 @@
                 "id": 94438814,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T03:26:39Z",
+                "last_commit": "2026-09-11T02:29:16Z",
                 "open_issues": 5,
                 "owner": "cloudinary",
                 "repo": "web-speed-test-server",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:32:06.840Z",
+    "last_updated": "2026-09-12T00:36:43.379Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
