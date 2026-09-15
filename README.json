@@ -462,7 +462,7 @@
                 "id": 97703809,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T09:17:15Z",
+                "last_commit": "2026-09-14T07:42:20Z",
                 "open_issues": 23,
                 "owner": "cloudinary",
                 "repo": "cloudinary-video-player",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:24:55.475Z",
+    "last_updated": "2026-09-15T00:53:47.977Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
