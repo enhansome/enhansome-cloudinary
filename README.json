@@ -462,8 +462,8 @@
                 "id": 97703809,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T07:42:20Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-15T14:56:59Z",
+                "open_issues": 24,
                 "owner": "cloudinary",
                 "repo": "cloudinary-video-player",
                 "stars": 94,
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-11T01:05:53Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-15T10:56:30Z",
+                "open_issues": 17,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:53:47.977Z",
+    "last_updated": "2026-09-16T00:47:20.828Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
