@@ -256,7 +256,7 @@
                 "open_issues": 18,
                 "owner": "fauna-labs",
                 "repo": "fwitter",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
@@ -462,8 +462,8 @@
                 "id": 97703809,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T10:45:12Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-18T12:59:46Z",
+                "open_issues": 24,
                 "owner": "cloudinary",
                 "repo": "cloudinary-video-player",
                 "stars": 94,
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-17T11:41:04Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-18T01:11:20Z",
+                "open_issues": 13,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:46:21.457Z",
+    "last_updated": "2026-09-19T00:37:05.991Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
