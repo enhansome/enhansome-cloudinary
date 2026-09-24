@@ -41,8 +41,8 @@
                 "id": 221179329,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T10:24:15Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-23T14:18:36Z",
+                "open_issues": 1,
                 "owner": "rpldy",
                 "repo": "react-uploady",
                 "stars": 1246,
@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "l4yton",
                 "repo": "RegHex",
-                "stars": 466,
+                "stars": 465,
                 "topics": [
                   "bugbounty",
                   "regex",
@@ -130,7 +130,7 @@
                 "open_issues": 33,
                 "owner": "cloudinary",
                 "repo": "cloudinary_gem",
-                "stars": 420,
+                "stars": 419,
                 "topics": [
                   "cloudinary",
                   "cloudinary-gem",
@@ -524,7 +524,7 @@
                 "open_issues": 13,
                 "owner": "cloudinary",
                 "repo": "cloudinary_android",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "android",
                   "android-library",
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T10:52:46Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-23T13:01:42Z",
+                "open_issues": 5,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:55:10.926Z",
+    "last_updated": "2026-09-24T00:52:20.570Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
