@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,470 | 🐛 107 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,000 | 🐛 107 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -499,7 +499,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Shahzayb/jif-chat](https://github.com/Shahzayb/jif-chat) ⚠️ Archived
 * [Shahzayb/freemage](https://github.com/Shahzayb/freemage) ⚠️ Archived
 * [Mailinary](https://github.com/cloudinary/mailinary) ⭐ 4 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-31
-* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2026-08-19
+* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli) ⭐ 3 | 🐛 13 | 🌐 Python | 📅 2026-09-26
 * [godswillokokon/ImagePickerCloudinary](https://github.com/godswillokokon/ImagePickerCloudinary) ⭐ 3 | 🐛 16 | 🌐 Objective-C | 📅 2023-01-26
 * [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary) ⭐ 2 | 🐛 4 | 🌐 JavaScript | 📅 2023-04-06
 * [el3zahaby/cloudder](https://github.com/el3zahaby/cloudder) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2020-05-03
@@ -680,4 +680,4 @@ specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
