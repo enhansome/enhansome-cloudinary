@@ -273,8 +273,8 @@
                 "id": 4211710,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T15:08:03Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-27T06:53:31Z",
+                "open_issues": 19,
                 "owner": "cloudinary",
                 "repo": "pycloudinary",
                 "stars": 262,
@@ -1063,8 +1063,8 @@
                 "id": 207788901,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-26T16:13:21Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-27T12:19:25Z",
+                "open_issues": 9,
                 "owner": "cloudinary",
                 "repo": "cloudinary-cli",
                 "stars": 3,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:51:37.564Z",
+    "last_updated": "2026-09-28T01:10:11.447Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",

@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,000 | 🐛 107 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,499 | 🐛 106 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -469,7 +469,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 334 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
 * [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular) ⭐ 302 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-10
 * [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter) ⭐ 296 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-13
-* [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 262 | 🐛 18 | 🌐 Python | 📅 2026-08-27
+* [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 262 | 🐛 19 | 🌐 Python | 📅 2026-09-27
 * [jlengstorf/get-share-image](https://github.com/jlengstorf/get-share-image) ⭐ 188 | 🐛 8 | 🌐 TypeScript | 📅 2024-01-15
 * [Cloudinary Java](https://github.com/cloudinary/cloudinary_java) ⭐ 176 | 🐛 47 | 🌐 Java | 📅 2026-07-08
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
@@ -499,7 +499,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Shahzayb/jif-chat](https://github.com/Shahzayb/jif-chat) ⚠️ Archived
 * [Shahzayb/freemage](https://github.com/Shahzayb/freemage) ⚠️ Archived
 * [Mailinary](https://github.com/cloudinary/mailinary) ⭐ 4 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-31
-* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli) ⭐ 3 | 🐛 13 | 🌐 Python | 📅 2026-09-26
+* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2026-09-27
 * [godswillokokon/ImagePickerCloudinary](https://github.com/godswillokokon/ImagePickerCloudinary) ⭐ 3 | 🐛 16 | 🌐 Objective-C | 📅 2023-01-26
 * [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary) ⭐ 2 | 🐛 4 | 🌐 JavaScript | 📅 2023-04-06
 * [el3zahaby/cloudder](https://github.com/el3zahaby/cloudder) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2020-05-03
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,105 | 🐛 90 | 🌐 MDX | 📅 2026-09-24
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,105 | 🐛 107 | 🌐 MDX | 📅 2026-09-24
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
