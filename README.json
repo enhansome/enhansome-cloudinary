@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "strapi/awesome-strapi",
-              "description": null,
+              "description": "strapi-community/awesome-strapi",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "rpldy/react-uploady",
-              "description": null,
+              "description": "rpldy/react-uploady",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "l4yton/RegHex",
-              "description": null,
+              "description": "l4yton/RegHex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -96,7 +96,7 @@
             {
               "node_type": "item",
               "title": "Responsive Breakpoints Generator",
-              "description": null,
+              "description": "cloudinary/responsive_breakpoints_generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Gem",
-              "description": null,
+              "description": "cloudinary/cloudinary_gem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary PHP",
-              "description": null,
+              "description": "cloudinary/cloudinary_php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -185,7 +185,7 @@
             {
               "node_type": "item",
               "title": "Laravel SDK for Cloudinary",
-              "description": null,
+              "description": "cloudinary-community/cloudinary-laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Angular",
-              "description": null,
+              "description": "cloudinary/cloudinary_angular",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -243,7 +243,7 @@
             {
               "node_type": "item",
               "title": "fauna-brecht/fwitter",
-              "description": null,
+              "description": "fauna-labs/fwitter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -264,7 +264,7 @@
             {
               "node_type": "item",
               "title": "pycloudinary - Python package for cloudinary",
-              "description": null,
+              "description": "cloudinary/pycloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "jlengstorf/get-share-image",
-              "description": null,
+              "description": "jlengstorf/get-share-image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -324,7 +324,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Java",
-              "description": null,
+              "description": "cloudinary/cloudinary_java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -356,7 +356,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary IOS",
-              "description": null,
+              "description": "cloudinary/cloudinary_ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,7 +388,7 @@
             {
               "node_type": "item",
               "title": "CloudinaryDotNet",
-              "description": null,
+              "description": "cloudinary/CloudinaryDotNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Vue",
-              "description": null,
+              "description": "cloudinary/cloudinary-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -453,7 +453,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Video Player",
-              "description": null,
+              "description": "cloudinary/cloudinary-video-player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -479,7 +479,7 @@
             {
               "node_type": "item",
               "title": "eexit/ghost-storage-cloudinary",
-              "description": null,
+              "description": "eexit/ghost-storage-cloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Android",
-              "description": null,
+              "description": "cloudinary/cloudinary_android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -542,7 +542,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary React Hook",
-              "description": null,
+              "description": "domitriusclark/use-cloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,7 +563,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Wordpress",
-              "description": null,
+              "description": "cloudinary/cloudinary_wordpress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +587,7 @@
             {
               "node_type": "item",
               "title": "yoelpc4/laravel-cloudinary",
-              "description": null,
+              "description": "yoelpc4/laravel-cloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "limiw/open-source-discussions",
-              "description": null,
+              "description": "limiw/open-source-discussions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +634,7 @@
             {
               "node_type": "item",
               "title": "limiw/open-source-discussions",
-              "description": null,
+              "description": "limiw/open-source-discussions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -655,7 +655,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Magento",
-              "description": null,
+              "description": "cloudinary/cloudinary_magento",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "GameWith/Front-End-Performance-Checklist",
-              "description": null,
+              "description": "GameWith/Front-End-Performance-Checklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -699,7 +699,7 @@
             {
               "node_type": "item",
               "title": "react-native-nigeria-community/react-native-cloudinary-image-picker",
-              "description": null,
+              "description": "react-native-nigeria-community/react-native-cloudinary-image-picker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "Wdio-allure-ts",
-              "description": null,
+              "description": "cloudinary/wdio-allure-ts",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "nhoizey/eleventy-plugin-images-responsiver",
-              "description": null,
+              "description": "nhoizey/eleventy-plugin-images-responsiver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Kotlin",
-              "description": null,
+              "description": "cloudinary/cloudinary_kotlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -794,7 +794,7 @@
             {
               "node_type": "item",
               "title": "Web Speed Test Server",
-              "description": null,
+              "description": "cloudinary/web-speed-test-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -817,7 +817,7 @@
             {
               "node_type": "item",
               "title": "patarapolw/blogdown-cms",
-              "description": null,
+              "description": "patarapolw/blogdown-cms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -842,7 +842,7 @@
             {
               "node_type": "item",
               "title": "uniformdev/sitecore-mvc-nextjs-starterkit",
-              "description": null,
+              "description": "uniformdev/sitecore-mvc-nextjs-starterkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -871,7 +871,7 @@
             {
               "node_type": "item",
               "title": "Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs",
-              "description": null,
+              "description": "texas-justice-initiative/website-nextjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -892,7 +892,7 @@
             {
               "node_type": "item",
               "title": "komfy/cloudinary",
-              "description": null,
+              "description": "Koshqua/cloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -913,7 +913,7 @@
             {
               "node_type": "item",
               "title": "vue-js-israel/meetups",
-              "description": null,
+              "description": "vue-js-israel/meetups",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -934,7 +934,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary JS Streaming",
-              "description": null,
+              "description": "cloudinary/cloudinary-js-streaming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -957,7 +957,7 @@
             {
               "node_type": "item",
               "title": "Shahzayb/jif-chat",
-              "description": null,
+              "description": "Shahzayb/jif-chat",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -993,7 +993,7 @@
             {
               "node_type": "item",
               "title": "Shahzayb/freemage",
-              "description": null,
+              "description": "Shahzayb/freemage",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1031,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "Mailinary",
-              "description": null,
+              "description": "cloudinary/mailinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary Cli",
-              "description": null,
+              "description": "cloudinary/cloudinary-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1083,7 +1083,7 @@
             {
               "node_type": "item",
               "title": "godswillokokon/ImagePickerCloudinary",
-              "description": null,
+              "description": "godswillokokon/ImagePickerCloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1108,7 +1108,7 @@
             {
               "node_type": "item",
               "title": "VUE Cli Plugin Cloudinary",
-              "description": null,
+              "description": "cloudinary/vue-cli-plugin-cloudinary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1136,7 +1136,7 @@
             {
               "node_type": "item",
               "title": "el3zahaby/cloudder",
-              "description": null,
+              "description": "egyjs/cloudder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1157,7 +1157,7 @@
             {
               "node_type": "item",
               "title": "uniformdev/sugcon-jss",
-              "description": null,
+              "description": "uniformdev/sugcon-jss",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1178,7 +1178,7 @@
             {
               "node_type": "item",
               "title": "danielcspaiva/sacada_do_predio",
-              "description": null,
+              "description": "danielcspaiva/sacada_do_predio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1211,7 +1211,7 @@
             {
               "node_type": "item",
               "title": "Dev forrest cloudinary by Fomiller · Pull Request #79 · Fomiller/Ultimate-Cookbook",
-              "description": null,
+              "description": "Fomiller/Ultimate-Cookbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1232,7 +1232,7 @@
             {
               "node_type": "item",
               "title": "just use fetch I guess · joelhooks/joelhooks-opengraph-images&3c93292",
-              "description": null,
+              "description": "joelhooks/joelhooks-opengraph-images",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1253,7 +1253,7 @@
             {
               "node_type": "item",
               "title": "flannelware/torch-cellars",
-              "description": null,
+              "description": "flannelware/torch-cellars",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1274,7 +1274,7 @@
             {
               "node_type": "item",
               "title": "uploade image to cloudinary using multer by phantware · Pull Request #6 · phantware/reflection_API",
-              "description": null,
+              "description": "phantware/reflection_API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1295,7 +1295,7 @@
             {
               "node_type": "item",
               "title": "Add cloudinary and restframework settings by IanMK-1 · Pull Request #1 · Bryan4real/neighbourhood-watch-backend",
-              "description": null,
+              "description": "brianmwiruki/neighbourhood-watch-backend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1316,7 +1316,7 @@
             {
               "node_type": "item",
               "title": "nokenwa/TwilioWhatsAppMothersDayPhotoBook",
-              "description": null,
+              "description": "nokenwa/TwilioWhatsAppMothersDayPhotoBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1337,7 +1337,7 @@
             {
               "node_type": "item",
               "title": "nokenwa/TwilioWhatsAppMothersDayPhotoBook",
-              "description": null,
+              "description": "nokenwa/TwilioWhatsAppMothersDayPhotoBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1358,7 +1358,7 @@
             {
               "node_type": "item",
               "title": "Cloudinary and Firebase endpoints by kylorobs · Pull Request #2 · KCLSU/HEROKU_advice_form",
-              "description": null,
+              "description": "KCLSU/HEROKU_advice_form",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1379,7 +1379,7 @@
             {
               "node_type": "item",
               "title": "使用 BeiDa firebase 和 cloudinary by sabgkang",
-              "description": null,
+              "description": "BeiDa-uGym/BeiDa-couponWebAdmin2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1400,7 +1400,7 @@
             {
               "node_type": "item",
               "title": "OsamaAdam98/indie-photographers",
-              "description": null,
+              "description": "osamaadam/indie-photographers",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:25:37.466Z",
+    "last_updated": "2026-10-03T04:38:38.948Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
