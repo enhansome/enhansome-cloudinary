@@ -803,7 +803,7 @@
                 "id": 94438814,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:44:14Z",
+                "last_commit": "2026-10-03T23:44:39Z",
                 "open_issues": 5,
                 "owner": "cloudinary",
                 "repo": "web-speed-test-server",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:38.948Z",
+    "last_updated": "2026-10-04T01:58:39.370Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
