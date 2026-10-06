@@ -45,7 +45,7 @@
                 "open_issues": 12,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1247,
+                "stars": 1246,
                 "topics": [
                   "browser",
                   "chunked-uploads",
@@ -109,7 +109,7 @@
                 "open_issues": 7,
                 "owner": "cloudinary",
                 "repo": "responsive_breakpoints_generator",
-                "stars": 443,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T10:35:40Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-05T14:21:04Z",
+                "open_issues": 8,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -803,8 +803,8 @@
                 "id": 94438814,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T08:07:11Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-05T03:43:28Z",
+                "open_issues": 7,
                 "owner": "cloudinary",
                 "repo": "web-speed-test-server",
                 "stars": 8,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:15:41.167Z",
+    "last_updated": "2026-10-06T02:29:55.848Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
