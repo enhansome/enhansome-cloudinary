@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "strapi-community",
                 "repo": "awesome-strapi",
-                "stars": 1508,
+                "stars": 1507,
                 "topics": [
                   "awesome-list",
                   "strapi"
@@ -45,7 +45,7 @@
                 "open_issues": 12,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": [
                   "browser",
                   "chunked-uploads",
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-05T14:21:04Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-06T20:03:49Z",
+                "open_issues": 9,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:45.281Z",
+    "last_updated": "2026-10-07T01:48:02.044Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
