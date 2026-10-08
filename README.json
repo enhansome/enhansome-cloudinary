@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "strapi-community",
                 "repo": "awesome-strapi",
-                "stars": 1507,
+                "stars": 1506,
                 "topics": [
                   "awesome-list",
                   "strapi"
@@ -520,7 +520,7 @@
                 "id": 9432373,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-06-14T07:47:35Z",
+                "last_commit": "2026-10-07T08:35:19Z",
                 "open_issues": 13,
                 "owner": "cloudinary",
                 "repo": "cloudinary_android",
@@ -572,7 +572,7 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-06T20:03:49Z",
+                "last_commit": "2026-10-07T22:08:17Z",
                 "open_issues": 9,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
@@ -803,8 +803,8 @@
                 "id": 94438814,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T03:43:28Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-07T07:01:39Z",
+                "open_issues": 5,
                 "owner": "cloudinary",
                 "repo": "web-speed-test-server",
                 "stars": 8,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:48:02.044Z",
+    "last_updated": "2026-10-08T02:15:37.276Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
