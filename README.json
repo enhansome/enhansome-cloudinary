@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "strapi-community",
                 "repo": "awesome-strapi",
-                "stars": 1506,
+                "stars": 1505,
                 "topics": [
                   "awesome-list",
                   "strapi"
@@ -41,11 +41,11 @@
                 "id": 221179329,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T14:03:02Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-11T09:02:24Z",
+                "open_issues": 0,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": [
                   "browser",
                   "chunked-uploads",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:14:25.431Z",
+    "last_updated": "2026-10-12T01:46:21.849Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
