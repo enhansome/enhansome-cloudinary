@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-11T00:48:21Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-12T11:14:05Z",
+                "open_issues": 14,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -793,6 +793,31 @@
             },
             {
               "node_type": "item",
+              "title": "patarapolw/blogdown-cms",
+              "description": "patarapolw/blogdown-cms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Content Management System, to provide API endpoints for Static Site Generators or JAMStacks",
+                "homepage": null,
+                "id": 231164972,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2023-01-07T18:41:03Z",
+                "open_issues": 40,
+                "owner": "patarapolw",
+                "repo": "blogdown-cms",
+                "stars": 9,
+                "topics": [
+                  "blogdown-cms",
+                  "cms",
+                  "heroku"
+                ]
+              },
+              "first_seen": "2026-08-28T06:20:15.262Z"
+            },
+            {
+              "node_type": "item",
               "title": "Web Speed Test Server",
               "description": "cloudinary/web-speed-test-server",
               "children": [],
@@ -810,31 +835,6 @@
                 "stars": 8,
                 "topics": [
                   "cloudinary-service"
-                ]
-              },
-              "first_seen": "2026-08-28T06:20:15.262Z"
-            },
-            {
-              "node_type": "item",
-              "title": "patarapolw/blogdown-cms",
-              "description": "patarapolw/blogdown-cms",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Content Management System, to provide API endpoints for Static Site Generators or JAMStacks",
-                "homepage": null,
-                "id": 231164972,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2023-01-07T18:41:03Z",
-                "open_issues": 40,
-                "owner": "patarapolw",
-                "repo": "blogdown-cms",
-                "stars": 8,
-                "topics": [
-                  "blogdown-cms",
-                  "cms",
-                  "heroku"
                 ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
@@ -912,6 +912,80 @@
             },
             {
               "node_type": "item",
+              "title": "Shahzayb/jif-chat",
+              "description": "Shahzayb/jif-chat",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "its a social networking website that allows you to send and receive post ( gif + text ) called jifs.",
+                "homepage": "https://jifchat.herokuapp.com/",
+                "id": 244217723,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2021-05-11T16:23:49Z",
+                "open_issues": 8,
+                "owner": "Shahzayb",
+                "repo": "jif-chat",
+                "stars": 6,
+                "topics": [
+                  "chat-app",
+                  "expressjs",
+                  "gif",
+                  "gif-chat",
+                  "google-oauth-login",
+                  "jif-chat",
+                  "mern",
+                  "mern-application",
+                  "mongodb",
+                  "nodejs",
+                  "reactjs",
+                  "rest-api",
+                  "social-network",
+                  "video-chat"
+                ]
+              },
+              "first_seen": "2026-08-28T06:20:15.262Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Shahzayb/freemage",
+              "description": "Shahzayb/freemage",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "It's an online photo sharing website",
+                "homepage": "https://freemage.herokuapp.com/",
+                "id": 202237598,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2021-05-11T06:57:48Z",
+                "open_issues": 10,
+                "owner": "Shahzayb",
+                "repo": "freemage",
+                "stars": 6,
+                "topics": [
+                  "expressjs",
+                  "free-images",
+                  "freemage",
+                  "image-gallery",
+                  "image-gallery-react",
+                  "mern",
+                  "mongodb",
+                  "mongoose",
+                  "node",
+                  "nodejs",
+                  "online-image-gallery",
+                  "react",
+                  "single-page-app",
+                  "spa",
+                  "unsplash",
+                  "unsplash-clone"
+                ]
+              },
+              "first_seen": "2026-08-28T06:20:15.262Z"
+            },
+            {
+              "node_type": "item",
               "title": "vue-js-israel/meetups",
               "description": "vue-js-israel/meetups",
               "children": [],
@@ -950,80 +1024,6 @@
                 "stars": 5,
                 "topics": [
                   "cloudinary-sdk"
-                ]
-              },
-              "first_seen": "2026-08-28T06:20:15.262Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Shahzayb/jif-chat",
-              "description": "Shahzayb/jif-chat",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "its a social networking website that allows you to send and receive post ( gif + text ) called jifs.",
-                "homepage": "https://jifchat.herokuapp.com/",
-                "id": 244217723,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2021-05-11T16:23:49Z",
-                "open_issues": 8,
-                "owner": "Shahzayb",
-                "repo": "jif-chat",
-                "stars": 5,
-                "topics": [
-                  "chat-app",
-                  "expressjs",
-                  "gif",
-                  "gif-chat",
-                  "google-oauth-login",
-                  "jif-chat",
-                  "mern",
-                  "mern-application",
-                  "mongodb",
-                  "nodejs",
-                  "reactjs",
-                  "rest-api",
-                  "social-network",
-                  "video-chat"
-                ]
-              },
-              "first_seen": "2026-08-28T06:20:15.262Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Shahzayb/freemage",
-              "description": "Shahzayb/freemage",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "It's an online photo sharing website",
-                "homepage": "https://freemage.herokuapp.com/",
-                "id": 202237598,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2021-05-11T06:57:48Z",
-                "open_issues": 10,
-                "owner": "Shahzayb",
-                "repo": "freemage",
-                "stars": 5,
-                "topics": [
-                  "expressjs",
-                  "free-images",
-                  "freemage",
-                  "image-gallery",
-                  "image-gallery-react",
-                  "mern",
-                  "mongodb",
-                  "mongoose",
-                  "node",
-                  "nodejs",
-                  "online-image-gallery",
-                  "react",
-                  "single-page-app",
-                  "spa",
-                  "unsplash",
-                  "unsplash-clone"
                 ]
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:46:21.849Z",
+    "last_updated": "2026-10-13T03:10:27.788Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
