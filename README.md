@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,013 | 🐛 105 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,499 | 🐛 105 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -461,7 +461,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 > List of tools and libraries for Cloudinary
 
 * [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) ⚠️ Archived
-* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,249 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14
+* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,250 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14
 * [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 467 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
 * [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 419 | 🐛 30 | 🌐 Ruby | 📅 2026-09-30
@@ -490,7 +490,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [nhoizey/eleventy-plugin-images-responsiver](https://github.com/nhoizey/eleventy-plugin-images-responsiver) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-22
 * [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin) ⭐ 10 | 🐛 4 | 🌐 Kotlin | 📅 2025-07-10
 * [patarapolw/blogdown-cms](https://github.com/patarapolw/blogdown-cms) ⭐ 9 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-07
-* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-07
+* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17
 * [uniformdev/sitecore-mvc-nextjs-starterkit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-13
 * [Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs](https://github.com/texas-justice-initiative/website-nextjs/pull/271) ⭐ 7 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-04
 * [komfy/cloudinary](https://github.com/komfy/cloudinary) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2020-09-23
@@ -680,4 +680,4 @@ specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
