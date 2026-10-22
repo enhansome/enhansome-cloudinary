@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,953 | 🐛 105 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,396 | 🐛 105 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -461,7 +461,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 > List of tools and libraries for Cloudinary
 
 * [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) ⚠️ Archived
-* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,250 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-20
+* [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,251 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-20
 * [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 467 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
 * [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 419 | 🐛 30 | 🌐 Ruby | 📅 2026-09-30
@@ -475,11 +475,11 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
 * [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 16 | 🌐 C# | 📅 2026-09-30
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
-* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-20
+* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 30 | 🌐 JavaScript | 📅 2026-10-21
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary) ⭐ 85 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21
 * [Cloudinary Android](https://github.com/cloudinary/cloudinary_android) ⭐ 69 | 🐛 13 | 🌐 Java | 📅 2026-10-07
 * [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary) ⭐ 43 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06
-* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 11 | 🌐 PHP | 📅 2026-10-20
+* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 9 | 🌐 PHP | 📅 2026-10-21
 * [yoelpc4/laravel-cloudinary](https://github.com/yoelpc4/laravel-cloudinary) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-10-04
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-digital-asset-management-tools-to-check-out.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
@@ -490,7 +490,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [nhoizey/eleventy-plugin-images-responsiver](https://github.com/nhoizey/eleventy-plugin-images-responsiver) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-22
 * [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin) ⭐ 10 | 🐛 4 | 🌐 Kotlin | 📅 2025-07-10
 * [patarapolw/blogdown-cms](https://github.com/patarapolw/blogdown-cms) ⭐ 9 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-07
-* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17
+* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-21
 * [uniformdev/sitecore-mvc-nextjs-starterkit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-13
 * [Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs](https://github.com/texas-justice-initiative/website-nextjs/pull/271) ⭐ 7 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-04
 * [komfy/cloudinary](https://github.com/komfy/cloudinary) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2020-09-23
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 85 | 🌐 MDX | 📅 2026-10-15
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,113 | 🐛 85 | 🌐 MDX | 📅 2026-10-15
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
