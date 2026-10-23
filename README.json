@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "l4yton",
                 "repo": "RegHex",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "bugbounty",
                   "regex",
@@ -333,7 +333,7 @@
                 "id": 6179800,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-19T12:33:29Z",
+                "last_commit": "2026-10-22T14:57:04Z",
                 "open_issues": 47,
                 "owner": "cloudinary",
                 "repo": "cloudinary_java",
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-21T13:27:32Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-22T01:39:14Z",
+                "open_issues": 11,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:53:20.127Z",
+    "last_updated": "2026-10-23T00:55:47.514Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
