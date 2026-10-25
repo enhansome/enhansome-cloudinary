@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "l4yton",
                 "repo": "RegHex",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "bugbounty",
                   "regex",
@@ -462,8 +462,8 @@
                 "id": 97703809,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T12:43:43Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-24T18:54:24Z",
+                "open_issues": 32,
                 "owner": "cloudinary",
                 "repo": "cloudinary-video-player",
                 "stars": 95,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:03:20.537Z",
+    "last_updated": "2026-10-25T00:30:58.162Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
