@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,168 | 🐛 105 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,671 | 🐛 105 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -475,7 +475,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
 * [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 16 | 🌐 C# | 📅 2026-09-30
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
-* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-24
+* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-25
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary) ⭐ 85 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21
 * [Cloudinary Android](https://github.com/cloudinary/cloudinary_android) ⭐ 69 | 🐛 13 | 🌐 Java | 📅 2026-10-07
 * [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary) ⭐ 43 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06
@@ -680,4 +680,4 @@ specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
