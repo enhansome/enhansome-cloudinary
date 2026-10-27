@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,671 | 🐛 105 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,199 | 🐛 105 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -475,11 +475,11 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
 * [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 16 | 🌐 C# | 📅 2026-09-30
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
-* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-25
+* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-26
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary) ⭐ 85 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21
 * [Cloudinary Android](https://github.com/cloudinary/cloudinary_android) ⭐ 69 | 🐛 13 | 🌐 Java | 📅 2026-10-07
 * [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary) ⭐ 43 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06
-* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 15 | 🌐 PHP | 📅 2026-10-23
+* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 12 | 🌐 PHP | 📅 2026-10-27
 * [yoelpc4/laravel-cloudinary](https://github.com/yoelpc4/laravel-cloudinary) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-10-04
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-digital-asset-management-tools-to-check-out.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,112 | 🐛 88 | 🌐 MDX | 📅 2026-10-23
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,112 | 🐛 85 | 🌐 MDX | 📅 2026-10-26
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
