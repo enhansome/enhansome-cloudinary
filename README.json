@@ -41,11 +41,11 @@
                 "id": 221179329,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T19:25:05Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-27T10:29:44Z",
+                "open_issues": 13,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": [
                   "browser",
                   "chunked-uploads",
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-27T00:07:38Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-27T09:47:41Z",
+                "open_issues": 14,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:36:42.620Z",
+    "last_updated": "2026-10-28T01:41:35.891Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
