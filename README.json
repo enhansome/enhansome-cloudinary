@@ -333,8 +333,8 @@
                 "id": 6179800,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-01T10:47:34Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-07T03:00:20Z",
+                "open_issues": 47,
                 "owner": "cloudinary",
                 "repo": "cloudinary_java",
                 "stars": 176,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:21:07.985Z",
+    "last_updated": "2026-11-08T01:48:01.294Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
