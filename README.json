@@ -41,11 +41,11 @@
                 "id": 221179329,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T15:36:23Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-10T22:08:52Z",
+                "open_issues": 2,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1253,
+                "stars": 1254,
                 "topics": [
                   "browser",
                   "chunked-uploads",
@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "cloudinary",
                 "repo": "cloudinary_php",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "cdn",
                   "cloudinary",
@@ -333,7 +333,7 @@
                 "id": 6179800,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-08T21:46:15Z",
+                "last_commit": "2026-11-10T20:47:38Z",
                 "open_issues": 47,
                 "owner": "cloudinary",
                 "repo": "cloudinary_java",
@@ -572,7 +572,7 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-09T13:37:54Z",
+                "last_commit": "2026-11-10T08:46:35Z",
                 "open_issues": 18,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
@@ -1170,7 +1170,7 @@
                 "open_issues": 1,
                 "owner": "uniformdev",
                 "repo": "sugcon-jss",
-                "stars": 2,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:20:15.262Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:17:54.650Z",
+    "last_updated": "2026-11-11T02:14:05.919Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
