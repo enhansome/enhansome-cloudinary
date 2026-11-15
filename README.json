@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "l4yton",
                 "repo": "RegHex",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "bugbounty",
                   "regex",
@@ -198,7 +198,7 @@
                 "open_issues": 9,
                 "owner": "cloudinary-community",
                 "repo": "cloudinary-laravel",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "cloudinary",
                   "laravel",
@@ -333,7 +333,7 @@
                 "id": 6179800,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-13T00:27:42Z",
+                "last_commit": "2026-11-15T01:57:59Z",
                 "open_issues": 47,
                 "owner": "cloudinary",
                 "repo": "cloudinary_java",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:40:38.761Z",
+    "last_updated": "2026-11-15T02:06:57.197Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",

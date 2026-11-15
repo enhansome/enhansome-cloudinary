@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,490 | 🐛 104 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,974 | 🐛 104 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -462,16 +462,16 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 
 * [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) ⚠️ Archived
 * [rpldy/react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,254 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-12
-* [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 464 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
+* [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 465 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
 * [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 420 | 🐛 30 | 🌐 Ruby | 📅 2026-09-30
 * [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php) ⭐ 402 | 🐛 4 | 🌐 PHP | 📅 2026-10-19
-* [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 334 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
+* [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 335 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
 * [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular) ⭐ 303 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-10
 * [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter) ⭐ 296 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-13
 * [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary) ⭐ 262 | 🐛 18 | 🌐 Python | 📅 2026-11-05
 * [jlengstorf/get-share-image](https://github.com/jlengstorf/get-share-image) ⭐ 188 | 🐛 8 | 🌐 TypeScript | 📅 2024-01-15
-* [Cloudinary Java](https://github.com/cloudinary/cloudinary_java) ⭐ 176 | 🐛 47 | 🌐 Java | 📅 2026-11-13
+* [Cloudinary Java](https://github.com/cloudinary/cloudinary_java) ⭐ 176 | 🐛 47 | 🌐 Java | 📅 2026-11-15
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
 * [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 16 | 🌐 C# | 📅 2026-09-30
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,115 | 🐛 105 | 🌐 MDX | 📅 2026-11-14
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,116 | 🐛 104 | 🌐 MDX | 📅 2026-11-15
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
