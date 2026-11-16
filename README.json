@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "cloudinary",
                 "repo": "cloudinary_php",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "cdn",
                   "cloudinary",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:06:57.197Z",
+    "last_updated": "2026-11-16T02:22:55.160Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",

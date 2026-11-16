@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,974 | 🐛 104 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,532 | 🐛 104 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -465,7 +465,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [l4yton/RegHex](https://github.com/l4yton/RegHex) ⭐ 465 | 🐛 0 | 🌐 Shell | 📅 2023-12-01
 * [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator) ⭐ 443 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-19
 * [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem) ⭐ 420 | 🐛 30 | 🌐 Ruby | 📅 2026-09-30
-* [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php) ⭐ 402 | 🐛 4 | 🌐 PHP | 📅 2026-10-19
+* [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php) ⭐ 403 | 🐛 4 | 🌐 PHP | 📅 2026-10-19
 * [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel) ⭐ 335 | 🐛 9 | 🌐 PHP | 📅 2026-01-30
 * [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular) ⭐ 303 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-10
 * [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter) ⭐ 296 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-13
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,116 | 🐛 104 | 🌐 MDX | 📅 2026-11-15
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,117 | 🐛 106 | 🌐 MDX | 📅 2026-11-16
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
