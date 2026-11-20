@@ -41,11 +41,11 @@
                 "id": 221179329,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:00:26Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T14:03:55Z",
+                "open_issues": 6,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1254,
+                "stars": 1253,
                 "topics": [
                   "browser",
                   "chunked-uploads",
@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "l4yton",
                 "repo": "RegHex",
-                "stars": 465,
+                "stars": 464,
                 "topics": [
                   "bugbounty",
                   "regex",
@@ -130,7 +130,7 @@
                 "open_issues": 30,
                 "owner": "cloudinary",
                 "repo": "cloudinary_gem",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "cloudinary",
                   "cloudinary-gem",
@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "cloudinary",
                 "repo": "cloudinary_php",
-                "stars": 403,
+                "stars": 402,
                 "topics": [
                   "cdn",
                   "cloudinary",
@@ -198,7 +198,7 @@
                 "open_issues": 8,
                 "owner": "cloudinary-community",
                 "repo": "cloudinary-laravel",
-                "stars": 336,
+                "stars": 334,
                 "topics": [
                   "cloudinary",
                   "laravel",
@@ -223,7 +223,7 @@
                 "open_issues": 10,
                 "owner": "cloudinary",
                 "repo": "cloudinary_angular",
-                "stars": 304,
+                "stars": 302,
                 "topics": [
                   "angular-components",
                   "angularjs",
@@ -572,8 +572,8 @@
                 "id": 54102165,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-18T09:39:00Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-20T01:06:10Z",
+                "open_issues": 15,
                 "owner": "cloudinary",
                 "repo": "cloudinary_wordpress",
                 "stars": 39,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:50:25.090Z",
+    "last_updated": "2026-11-20T03:43:17.809Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)",
