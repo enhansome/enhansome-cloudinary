@@ -11,7 +11,7 @@
 [Cloudinary](https://github.com/cloudinary) is a comprehensive cloud-based image and video
 management platform
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,424 | 🐛 103 | 📅 2026-09-02 list things, You might also
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,928 | 🐛 103 | 📅 2026-09-02 list things, You might also
 like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-05.*
 
 ## Contents
@@ -474,12 +474,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Cloudinary Java](https://github.com/cloudinary/cloudinary_java) ⭐ 177 | 🐛 49 | 🌐 Java | 📅 2026-11-22
 * [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios) ⭐ 169 | 🐛 14 | 🌐 Swift | 📅 2026-01-08
 * [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet) ⭐ 105 | 🐛 16 | 🌐 C# | 📅 2026-09-30
+* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 96 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-08
 * [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2023-07-19
-* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player) ⭐ 95 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-08
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary) ⭐ 85 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21
 * [Cloudinary Android](https://github.com/cloudinary/cloudinary_android) ⭐ 69 | 🐛 13 | 🌐 Java | 📅 2026-10-07
 * [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary) ⭐ 43 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06
-* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 7 | 🌐 PHP | 📅 2026-11-24
+* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress) ⭐ 39 | 🐛 6 | 🌐 PHP | 📅 2026-11-25
 * [yoelpc4/laravel-cloudinary](https://github.com/yoelpc4/laravel-cloudinary) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-10-04
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-digital-asset-management-tools-to-check-out.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
 * [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md) ⭐ 24 | 🐛 0 | 📅 2020-12-14
@@ -489,8 +489,8 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs) ⭐ 63 | �
 * [Wdio-allure-ts](https://github.com/cloudinary/wdio-allure-ts) ⚠️ Archived
 * [nhoizey/eleventy-plugin-images-responsiver](https://github.com/nhoizey/eleventy-plugin-images-responsiver) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-22
 * [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin) ⭐ 10 | 🐛 4 | 🌐 Kotlin | 📅 2025-07-10
+* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 9 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-23
 * [patarapolw/blogdown-cms](https://github.com/patarapolw/blogdown-cms) ⭐ 9 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-07
-* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server) ⭐ 8 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-23
 * [uniformdev/sitecore-mvc-nextjs-starterkit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-13
 * [Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs](https://github.com/texas-justice-initiative/website-nextjs/pull/271) ⭐ 7 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-04
 * [komfy/cloudinary](https://github.com/komfy/cloudinary) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2020-09-23
@@ -675,9 +675,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,122 | 🐛 99 | 🌐 MDX | 📅 2026-11-25
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,123 | 🐛 99 | 🌐 MDX | 📅 2026-11-26
 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
